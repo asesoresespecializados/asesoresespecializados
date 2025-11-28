@@ -224,11 +224,13 @@ description: Acceso único a demos web y paneles Power BI.
     <div class="badge">
       <span>Portal de demos</span>
     </div>
-    <h1 class="hero-title">Entorno de demos de Victor Fuente</h1>
+    <h1 class="hero-title">Entorno de demos / DIRECCIÓN DE SECUNDARIAS / ASESORES ESPECIALIZADOS</h1>
     <p class="hero-subtitle">
       Esta página funciona como un acceso único a las demos que se ejecutan desde mi entorno de desarrollo
       (Ngrok / Web) Y (Local / Web) y a los paneles de Power BI utilizados en la Dirección de Educación Secundaria.
       Los enlaces de pruebas pueden cambiar, pero este portal se mantiene estable.
+      Administrador de los sistemas: Victor Fuente
+      Correo: victor.fuente@yucatan.gob.mx
     </p>
     <p class="hero-meta">
       👉 Comparte solo esta URL: <strong>https://vicfueagui.github.io</strong>.  
