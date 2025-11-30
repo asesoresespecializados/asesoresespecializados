@@ -233,7 +233,7 @@ description: Acceso único a demos web y paneles Power BI.
       Correo: victor.fuente@yucatan.gob.mx
     </p>
     <p class="hero-meta">
-      👉 Comparte solo esta URL: <strong>https://vicfueagui.github.io</strong>.  
+      👉 Comparte solo esta URL: <strong>https://asesoresespecializados.github.io/</strong>.  
       Desde aquí se puede entrar a cada demo cuando esté disponible.
     </p>
   </section>
