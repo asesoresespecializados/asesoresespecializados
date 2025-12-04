@@ -411,7 +411,7 @@ description: Acceso único a demos web y paneles Power BI.
     del periodo 2025-2030, centralizando la información en Google Drive para su consulta y actualización.
   </p>
   <div class="card-footer">
-    <a class="btn btn-primary" href="https://docs.google.com/spreadsheets/d/19daV022hpdRsxUEq-W9QAqv0VzVN6drf/edit?gid=30218007#gid=30218007" target="_blank" rel="noopener noreferrer">
+    <a class="btn btn-primary" href="https://docs.google.com/spreadsheets/d/19daV022hpdRsxUEq-W9QAqv0VzVN6drf/edit?gid=1776726030#gid=1776726030" target="_blank" rel="noopener noreferrer">
       Abrir en Google Sheets
     </a>
   </div>
