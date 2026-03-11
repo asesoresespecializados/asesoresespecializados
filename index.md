@@ -245,36 +245,38 @@ description: Acceso único a demos web y paneles Power BI.
       El enlace puede cambiar según la sesión de Ngrok; si marca error, es probable que el servidor local no esté activo.
     </p>
 
-    <div class="cards">
-      <!-- PROYECTO NGROK -->
-      <article class="card">
-        <div class="card-header">
-          <div>
-            <h3 class="card-title">Sistema WEB – Secundarias (Ngrok)</h3>
-            <p class="card-meta">
-              Control de Licencias, Protocolos, Control Interno y herramientas de cálculo de fechas.
-            </p>
-          </div>
-          <span class="card-tag">Django / Local</span>
-        </div>
-        <p class="card-body">
-          Proyecto web para la Dirección de Secundarias, área de Asesores Especializados: gestión de licencias,
-          control de protocolos, control interno y algunas herramientas de apoyo (cálculo de fechas, etc.).
-        </p>
-        <div class="card-footer">
-          <!-- URL ACTUAL DE NGROK (SE ACTUALIZA CUANDO CAMBIE) -->
-          <a class="btn btn-primary" href="https://14acc9430a69.ngrok-free.app" target="_blank" rel="noopener noreferrer">
-            Abrir sistema (Ngrok)
-          </a>
-        </div>
+<div class="cards">
+  <!-- PROYECTO PROJECT_LICENCIAS -->
+  <article class="card">
+    <div class="card-header">
+      <div>
+        <h3 class="card-title">Sistema Web - Control de Licencias 2025-2030</h3>
         <p class="card-meta">
-          <span class="status-text">
-            <span class="status-dot offline"></span>
-            Estado: requiere que el servidor de pruebas local y el túnel Ngrok estén activos.
-          </span>
+          Direccion de Educacion Secundarias · Enlace de Asesores Especializados.
         </p>
-      </article>
+      </div>
+      <span class="card-tag">Django / Docker Desktop</span>
     </div>
+
+    <p class="card-body">
+      Proyecto web institucional para la gestion de tramites de licencias:
+      tablero ejecutivo, filtros, analitica BI, KPIs y CRUD completo de registros.
+    </p>
+
+    <div class="card-footer">
+      <a class="btn btn-primary" href="http://127.0.0.1:8010/" target="_blank" rel="noopener noreferrer">
+        Abrir sistema (Local Docker)
+      </a>
+    </div>
+
+    <p class="card-meta">
+      <span class="status-text">
+        <span class="status-dot offline"></span>
+        Estado: disponible cuando los contenedores del proyecto esten activos en Docker Desktop.
+      </span>
+    </p>
+  </article>
+</div>
 
     <div class="cards">
       <!-- PROYECTO LOCAL -->
