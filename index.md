@@ -239,10 +239,10 @@ description: Acceso único a demos web y paneles Power BI.
   </section>
 
   <section>
-    <h2 class="section-title">Demos Web (Ngrok)</h2>
+    <h2 class="section-title">Demos Web (Local)</h2>
     <p class="section-description">
       Acceso a sistemas web de prueba utilizados en la Dirección de Secundarias, área de Asesores Especializados.
-      El enlace puede cambiar según la sesión de Ngrok; si marca error, es probable que el servidor local no esté activo.
+      El enlace puede cambiar según la sesión local; si marca error, es probable que el servidor local no esté activo.
     </p>
 
 <div class="cards">
@@ -264,7 +264,7 @@ description: Acceso único a demos web y paneles Power BI.
     </p>
 
     <div class="card-footer">
-      <a class="btn btn-primary" href="http://127.0.0.1:8010/" target="_blank" rel="noopener noreferrer">
+      <a class="btn btn-primary" href="http://192.168.184.175:8010/" target="_blank" rel="noopener noreferrer">
         Abrir sistema (Local Docker)
       </a>
     </div>
